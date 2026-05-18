@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xx7-india.com/sitemap.xml
